@@ -5,13 +5,13 @@ To get started with this project, follow these installation instructions:
 1. **Clone the Repository**
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/your-repo.git
+     git clone https://github.com/your-username/culture-travel-todo.git
      ```
 
 2. **Frontend Setup**
    - Navigate to the root directory of the project:
      ```bash
-     cd your-repo
+     cd culture-travel-todo
      ```
    - Install the frontend dependencies:
      ```bash
