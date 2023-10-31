@@ -1,30 +1,44 @@
-Project Installation
+# Project Installation
+
 To get started with this project, follow these installation instructions:
 
-Clone the Repository
+1. **Clone the Repository**
+   - Clone this repository to your local machine using the following command:
+     ```bash
+     git clone https://github.com/your-username/your-repo.git
+     ```
 
-**Clone this repository to your local machine using the following command:**
-git clone https://github.com/Rajupzenrays/culture-travel-todo.git
+2. **Frontend Setup**
+   - Navigate to the root directory of the project:
+     ```bash
+     cd your-repo
+     ```
+   - Install the frontend dependencies:
+     ```bash
+     npm install
+     ```
+   - Start the frontend development server:
+     ```bash
+     npm start
+     ```
+   The frontend application will be available at `http://localhost:3000` by default. You can access it in your web browser.
 
-***Frontend Setup***
-Navigate to the root directory of the project:
-cd culture-travel-todo
+3. **Backend Setup**
+   - Change directory to the backend folder:
+     ```bash
+     cd backend
+     ```
+   - Install the backend dependencies:
+     ```bash
+     npm install
+     ```
+   - Start the backend server:
+     ```bash
+     npm start
+     ```
 
-Install the frontend dependencies:
-npm install
+   The backend server will be running on a specific port, and you can access its API endpoints as needed.
 
-Start the frontend development server:
-npm start
+That's it! You now have the project up and running on your local machine, with both the frontend and backend components set up.
 
-The frontend application will be available at http://localhost:3000 by default. You can access it in your web browser.
-
-***Backend Setup***
-
-Change directory to the backend folder:
-cd backend
-
-Install the backend dependencies:
-npm install
-
-Start the backend server:
-npm start
+Also Please start your local mongodb, as i have used mine local mongo.
